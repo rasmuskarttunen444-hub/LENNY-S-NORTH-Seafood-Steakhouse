@@ -27,7 +27,7 @@ export default function SignatureExperience() {
               <div className="relative aspect-[4/5] overflow-hidden mb-6">
                 <img
                   src={
-                    index === 0 ? "https://images.unsplash.com/photo-1546241072-48010ad28c2c?auto=format&fit=crop&q=80&w=800" :
+                    index === 0 ? "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=800" :
                     index === 1 ? "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=800" :
                     "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&q=80&w=800"
                   }

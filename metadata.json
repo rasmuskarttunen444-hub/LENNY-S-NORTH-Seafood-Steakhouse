@@ -1,0 +1,7 @@
+{
+  "name": "Lenny's North Seafood & Steakhouse",
+  "description": "Premium, high-converting website for Armonk's premier steakhouse and seafood destination.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
